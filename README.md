@@ -3,8 +3,8 @@
 
 <!-- - 🍎 知乎：**[whw199833](https://www.zhihu.com/people/whw199833)** -->
 - 🍇 Focus：data mining | recommendation | user growth
-- 🍑 I’m currently working @ Tencent. Welcome to get in touch with me~
-- 🍊 How to reach me: Wechat - whw199833
+- 🍑 I'm currently working @ Tencent. Welcome to get in touch with me~
+- 🍊 Wechat: whw199833
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-hw20&langs_count=8)](https://github.com/acse-hw20/github-readme-stats)
 
