@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-hw20)](https://github.com/acse-hw20/github-readme-stats)
 
-- 🍎 知乎：**[whw199833](https://www.zhihu.com/people/whw199833)**
+<!-- - 🍎 知乎：**[whw199833](https://www.zhihu.com/people/whw199833)** -->
 - 🍇 研究方向：数据挖掘 | 推荐 | 用户增长
 - 🍊 个人微信：whw199833
 - 🍑 腾讯持续内推中，加我VX砸简历给我~
