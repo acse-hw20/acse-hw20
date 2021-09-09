@@ -2,7 +2,10 @@
 
 
 
-[![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-hw20)](https://github.com/anuraghazra/github-readme-stats)
+[![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-hw20)](https://github.com/acse-hw20/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-hw20&langs_count=8)](https://github.com/acse-hw20/github-readme-stats)
+
 
 <!-- - 🍉 公众号：**NLP情报局** -->
 - 🍎 知乎：**[whw199833](https://www.zhihu.com/people/whw199833)**
