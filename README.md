@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=acse-hw20)](https://github.com/whw199833/github-readme-stats)
+[![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=whw199833)](https://github.com/whw199833/github-readme-stats)
 
 <!-- - 🍎 知乎：**[whw199833](https://www.zhihu.com/people/whw199833)** -->
 - 🍇 Focus：data mining | recommendation | user growth
@@ -7,7 +7,7 @@
 - 🍊 Wechat: whw199833
 - 🔭 I’m currently working on sharing notes and code~
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acse-hw20&langs_count=8)](https://github.com/whw199833/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whw199833&langs_count=8)](https://github.com/whw199833/github-readme-stats)
 
 <!--
 **acse-hw20/acse-hw20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
