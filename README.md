@@ -5,8 +5,6 @@
 - 🍊 Wechat: whw199833
 - 🔭 I’m currently working on sharing notes and code~
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whw199833&langs_count=8)](https://github.com/whw199833/github-readme-stats)
-
 <!--
 **acse-hw20/acse-hw20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
