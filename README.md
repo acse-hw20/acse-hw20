@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![Haowen's GitHub stats](https://github-readme-stats.vercel.app/api?username=whw199833)](https://github.com/whw199833/github-readme-stats)
-
 <!-- - 🍎 Linkedin：**[whw199833]()** -->
 - 🍇 Focus：data mining | recommendation | user growth
 - 🍑 I'm currently working @Zhejiang Lab, and I used to work in Alipay and Tencent(WXG and CSIG). Welcome to get in touch with me~
