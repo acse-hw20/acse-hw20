@@ -5,7 +5,7 @@
 - 🍊 Wechat: whw199833
 - 🔭 I’m currently working on sharing notes and code~
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=whw199833&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=whw199833&&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **acse-hw20/acse-hw20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
