@@ -1,5 +1,15 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=whw199833&&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <p>
+
+  <a href="https://github.com/shenweichen">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=shenweichen&show_icons=true&theme=default&hide=contribs,issues" />
+
+  </a>
+  
+  </p>
+</div>
 
 <!-- - 🍎 Linkedin：**[whw199833]()** -->
 - 🍇 Focus：data mining | recommendation | user growth
